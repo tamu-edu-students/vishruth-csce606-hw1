@@ -2,7 +2,7 @@
 
 source 'http://rubygems.org'
 
-ruby '2.6.8'
+ruby '3.1.2'
 
 gem 'byebug'
 gem 'cucumber'
